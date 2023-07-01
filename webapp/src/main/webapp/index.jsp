@@ -9,7 +9,7 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: #FF5733;
+  background: #DE3163;
   color: white;
 }
 /* Increase the font size of the heading */
@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
-  <p>This Java Web Application Was Deployed Using CI/CD by Imm-B-Batch</p>
+  <h1>Hello Solavise Tech Community !!!</h1>
+  <p>This Java Web Application Was Deployed Using CI/CD by Dr. Samba Otavise</p>
 </div>
 </body>
 </html>
